@@ -64,16 +64,6 @@ I'm a software engineer with **4 years** across backend engineering, DevOps and 
   <img src="https://streak-stats.demolab.com?user=pankajneema&background=0D1117&border=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=10" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pankajneema&bg_color=0D1117&color=C9D1D9&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&radius=10" width="100%" alt="Activity graph" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pankajneema&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies" />
-</p>
-
 ---
 
 ### 🐍 Contribution snake
