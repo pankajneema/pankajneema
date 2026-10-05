@@ -11,7 +11,8 @@ Hey, I'm **Pankaj Kumar** — an AI Engineer based in Gurugram, Haryana. I build
 ### 🛠️ Tech stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,go,js,ts,rust,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,go,js,ts,rust,bash&theme=dark" alt="Languages" /><br/>
+<sub>SQL</sub>
 
 **Backend**<br/>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" alt="Backend" /><br/>
@@ -33,7 +34,8 @@ Hey, I'm **Pankaj Kumar** — an AI Engineer based in Gurugram, Haryana. I build
 <sub>Transformers · Fine-tuning · MLflow · Training Data · Model Serving · Drift Monitoring · OCI Builds · Model Versioning · Inference Deployment</sub>
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" /><br/>
+<sub>TypeScript · Responsive UI</sub>
 
 **Security & AppSec**<br/>
 <sub>Attack Surface Management · Amass · Subfinder · Nuclei · Prompt Injection Defense · Cloud Asset Discovery</sub>
