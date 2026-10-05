@@ -69,11 +69,7 @@ I'm a software engineer with **4 years** across backend engineering, DevOps and 
 ### 🐍 Contribution snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pankajneema/pankajneema/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pankajneema/pankajneema/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/pankajneema/pankajneema/output/github-snake-dark.svg" />
-  </picture>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/pankajneema/pankajneema/output/github-snake-dark.svg" width="100%" />
 </p>
 
 <!-- ═══════════ Footer ═══════════ -->
